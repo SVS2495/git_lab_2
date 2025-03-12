@@ -2,3 +2,8 @@ icecream
 biryani
 pizza
 juice
+
+icecream is sweet
+biryani is spicy
+pizza is crispy
+juice is healthy
